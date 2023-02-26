@@ -6,10 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <br />
 <br />
@@ -18,11 +15,11 @@
 
 # Problem Description and Research Question
 
-In our project, we want to explore the question, **how can we use models to predict whether COVID-19 decreased, increased, or had little effect on carbon emissions in the United States?** Ultimately, we will have a graph that shows the differences between the actual emissions vs. our predicted emissions to draw conclusions for our research question.
+In our project, we want to explore the question, **how can we use models to predict whether COVID-19 decreased, increased, or had little effect on carbon emissions in the United States?** Ultimately, we will have a graph that shows the differences between the actual emissions vs. our predicted emissions to draw conclusions for our research question. The solution uses one day time series forecasting using an RNN model trained with Keras.
 
 ----
 
-## **Our Team**: [Eric Karpovits](https://github.com/EricKarpovits), [Ahmed Khalf](https://github.com/ahmedkhalf), Rohan Mistry, and Shaffaan Bin Aamir
+## **Our Team**: [Ahmed Khalf](https://github.com/ahmedkhalf), [Eric Karpovits](https://github.com/EricKarpovits), Rohan Mistry, and Shaffaan Bin Aamir
 
 ----
 
